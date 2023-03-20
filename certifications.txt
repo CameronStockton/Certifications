@@ -1,0 +1,13 @@
+Analyze Box Office Data with Plotly and Python - Coursera
+Apache Spark SQL for Data Analysts - Coursera & Databricks
+Applied Data Science for Data Analysts - Coursera & Databricks
+Applied Machine Learning in Python - Coursera & University of Michigan
+Applied Plotting, Charting & Data Representation in Python - Coursera & University of Michigan
+Applied Text Mining in Python - Coursera & University of Michigan
+Classification Trees in Python, From Start to Finish - Coursera
+Python 101: Develop Your First Python Program - Coursera
+Introduction to Data Science in Python - Coursera & University of Michigan
+Introduction to Docker: The Basics - Coursera
+Linear Regression with Python - Coursera
+Support Vector Machines in Python, From Start to Finish - Coursera
+Introduction to Deep Learning - Kaggle
