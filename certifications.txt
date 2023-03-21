@@ -11,3 +11,4 @@ Introduction to Docker: The Basics - Coursera
 Linear Regression with Python - Coursera
 Support Vector Machines in Python, From Start to Finish - Coursera
 Introduction to Deep Learning - Kaggle
+Computer Vision - Kaggle
