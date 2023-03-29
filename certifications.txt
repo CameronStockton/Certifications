@@ -12,3 +12,6 @@ Linear Regression with Python - Coursera
 Support Vector Machines in Python, From Start to Finish - Coursera
 Introduction to Deep Learning - Kaggle
 Computer Vision - Kaggle
+The Critical Role of IT Support Staff in Healthcare - Coursera & Johns Hopkins University
+Health Information Technology Fundamentals - Coursera & Johns Hopkins University
+Intro to Game AI and Reinforcement Learning - Kaggle
